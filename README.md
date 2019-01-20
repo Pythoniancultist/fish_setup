@@ -1,4 +1,5 @@
-###Commands to Improve Usability of Fish Shell
+### Commands to Improve Usability of Fish Shell
+
 To make Fish display full path to your current location, add following line to your fish config file;
 
 * set -U fish_prompt_pwd_dir_length 0

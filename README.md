@@ -1,4 +1,4 @@
-### Commands to Improve Usability of Fish Shell
+### Commands to Improve Usability of Fish Shell + Related Ranger Configuration file
 
 To make Fish display full path to your current location, add following line to your fish config file;
 
@@ -18,6 +18,11 @@ To disable the annoying Fish greeting message, add the following line to your Fi
 * set fish_greeting
 
 Tip: Anything you write after 'fish_greeting' will be your new greeting message. 
+
+***
+To set default editor as Neovim;
+
+*set -x EDITOR nvim
 
 ***
 To make Fish your default shell;

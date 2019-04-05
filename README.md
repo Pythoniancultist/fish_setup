@@ -22,7 +22,7 @@ Tip: Anything you write after 'fish_greeting' will be your new greeting message.
 ***
 To set default editor as Neovim;
 
-*set -x EDITOR nvim
+* set -x EDITOR nvim
 
 ***
 To make Fish your default shell;
